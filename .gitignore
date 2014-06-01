@@ -1,0 +1,5 @@
+*.sw*
+.ropeproject/
+bodytracker.egg-info/
+*.pyc
+db.sqlite3
